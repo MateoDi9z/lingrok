@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Óptimo",
+      "hasCanvas": false,
+      "bodyTextLen": 1592,
+      "bodyTextHash": "8fc005172d07052165c22b07edf3928b3029345c136fdf9a060e9ccdc57c9c69",
+      "bodyTextPrefix": "INVESTIGACIÓN OPERATIVA Óptimo Armá un modelo de programación li",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-dev.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Óptimo",
+      "hasCanvas": false,
+      "bodyTextLen": 1592,
+      "bodyTextHash": "8fc005172d07052165c22b07edf3928b3029345c136fdf9a060e9ccdc57c9c69",
+      "bodyTextPrefix": "INVESTIGACIÓN OPERATIVA Óptimo Armá un modelo de programación li",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-dev-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-dev.json"
+}
